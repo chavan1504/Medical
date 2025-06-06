@@ -1,5 +1,7 @@
 🏥 Medical Management System – Frontend Interface
 
+https://github.com/user-attachments/assets/c230a7c7-761e-4e0e-95a4-ba091149564c
+
 Implemented the frontend UI for a Medical Management System using modern web development practices. The system provides a user-friendly interface with the following key features:
 
 🔐 Sign In / Sign Up Interface – Secure access for different roles (e.g., doctors, patients, staff).
