@@ -1,0 +1,14 @@
+{
+  "name": "healthcare-app",
+  "scripts": {
+    "install-deps": "npm install",
+
+    "dev": "concurrently \"npm run server\" \"npm run client\"\nodemon index.js\"",
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm start",
+    "install-deps": "npm install && cd backend && npm install && cd ../frontend && npm install"
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
